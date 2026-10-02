@@ -1,4 +1,6 @@
-## Hi there 👋
+0.1x engineer
+
+![GitHub stats](https://stan5370-readme-stats-f.shannon199019.chatgpt.site/api?username=stan5370&show_icons=true)
 
 <!--
 **stan5370/stan5370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
